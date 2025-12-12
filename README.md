@@ -114,9 +114,9 @@ This ensures:
 - Open VS Code or Command Prompt
 - Go to your project directory:
 cd C:\Users\App\pocketpalSwing
-- Compile all files
+- Compile all files: 
 javac *.java
-- Run the GUI
+- Run the GUI: 
 java PocketPalSwing
 - The application window will open instantly.
 
@@ -130,6 +130,7 @@ java PocketPalSwing
 
 ## Creators
 Rasagnya M, Parinita T, Hasini K
+
 Engineering Students – Academic Project
 
 
