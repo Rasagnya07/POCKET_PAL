@@ -111,22 +111,22 @@ This ensures:
 
 ## How to Run
 
--Open VS Code or Command Prompt
--Go to your project directory:
+- Open VS Code or Command Prompt
+- Go to your project directory:
 cd C:\Users\App\pocketpalSwing
--Compile all files
+- Compile all files
 javac *.java
--Run the GUI
+- Run the GUI
 java PocketPalSwing
--The application window will open instantly.
+- The application window will open instantly.
 
 ## Learning Outcomes
--Understanding of real-world finance management problem
--Designing a modular and scalable solution
--Applying OOP principles (Encapsulation, Constructors, Methods)
--Implementing file handling using CSV
--Building Java Swing GUI with events, dialogs, and navigation
--Testing, debugging, and validating user inputs
+- Understanding of real-world finance management problem
+- Designing a modular and scalable solution
+- Applying OOP principles (Encapsulation, Constructors, Methods)
+- Implementing file handling using CSV
+- Building Java Swing GUI with events, dialogs, and navigation
+- Testing, debugging, and validating user inputs
 
 ## Creators
 Rasagnya M, Parinita T, Hasini K
