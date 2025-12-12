@@ -1,4 +1,4 @@
-# POCKET PAL- Personal Finance Manager (Java Swing)
+# PocketPal – Personal Finance Manager (Java Swing)
 
 PocketPal Swing is a desktop-based personal finance application built entirely in **Java (Swing)**.  
 It includes **Login/Sign-up**, **Expense Tracking**, **Needs vs Wants Classification**,  
@@ -10,7 +10,7 @@ This project uses **Object-Oriented Programming**, **Encapsulation**, **File Han
 
 ---
 
-## ✨ Features
+## Features
 
 ### Login / Signup System
 - Each user gets a **separate CSV file** storing:
@@ -78,7 +78,7 @@ This ensures:
 
 ---
 
-## 🧩 Technology Stack
+## Technology Stack
 
 | Component | Technology |
 |----------|------------|
@@ -91,6 +91,41 @@ This ensures:
 
 ---
 
-## 🏗 How to Run
+## Project Structure:
 
-### **1️⃣ Compile**
+# PocketPalSwing.java          
+# Expense.java                 
+# NeedsWantsClassifier.java    
+# Budget.java                  
+# BudgetManager.java           
+# Badge.java                   
+# BadgeManager.java            
+# BadgeThresholds.java         
+# UserStorage.java             
+# EMICalculator.java           
+# Theme.java                   
+# UtilsFileHelpers.java        
+# ConsoleColors.java           
+# Persistable.java
+# ReflectionDemo.java
+
+## How to Run
+
+-Open VS Code or Command Prompt
+-Go to your project directory:
+cd C:\Users\App\pocketpalSwing
+-Compile all files
+javac *.java
+-Run the GUI
+java PocketPalSwing
+-The application window will open instantly.
+
+## Creators
+Rasagnya M, Parinita T, Hasini K
+Engineering Students – Academic Project
+
+
+
+
+
+
