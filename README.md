@@ -93,21 +93,21 @@ This ensures:
 
 ## Project Structure:
 
-# PocketPalSwing.java          
-# Expense.java                 
-# NeedsWantsClassifier.java    
-# Budget.java                  
-# BudgetManager.java           
-# Badge.java                   
-# BadgeManager.java            
-# BadgeThresholds.java         
-# UserStorage.java             
-# EMICalculator.java           
-# Theme.java                   
-# UtilsFileHelpers.java        
-# ConsoleColors.java           
-# Persistable.java
-# ReflectionDemo.java
+- PocketPalSwing.java          
+- Expense.java                 
+- NeedsWantsClassifier.java    
+- Budget.java                  
+- BudgetManager.java           
+- Badge.java                   
+- BadgeManager.java            
+- BadgeThresholds.java         
+- UserStorage.java             
+- EMICalculator.java           
+- Theme.java                   
+- UtilsFileHelpers.java        
+- ConsoleColors.java           
+- Persistable.java
+- ReflectionDemo.java
 
 ## How to Run
 
@@ -119,6 +119,14 @@ javac *.java
 -Run the GUI
 java PocketPalSwing
 -The application window will open instantly.
+
+## Learning Outcomes
+-Understanding of real-world finance management problem
+-Designing a modular and scalable solution
+-Applying OOP principles (Encapsulation, Constructors, Methods)
+-Implementing file handling using CSV
+-Building Java Swing GUI with events, dialogs, and navigation
+-Testing, debugging, and validating user inputs
 
 ## Creators
 Rasagnya M, Parinita T, Hasini K
